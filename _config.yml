@@ -126,5 +126,3 @@ server <- function(input, output) {
 
 # Run the application
 shinyApp(ui = ui, server = server)
-
-theme: jekyll-theme-slate
